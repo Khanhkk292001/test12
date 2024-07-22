@@ -3,4 +3,8 @@ hehehe
 KAKAKAK
 AAA
 HEHEHEEH
+<<<<<<< HEAD
 aaaaallll
+=======
+toichannn
+>>>>>>> 74032c6c9b02aab78ca6241d5417287b76afe0df
